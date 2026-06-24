@@ -32,7 +32,7 @@ UnitIcons/The Sniper
   orig: 100, 100
   offset: 0, 0
   index: -1
-game.png2
+all_11405250.png
 size: 512, 128
 format: RGBA8888
 filter: MipMapLinearLinear, MipMapLinearLinear
