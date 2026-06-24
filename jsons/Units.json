@@ -1,16 +1,15 @@
 [
 	{
-		"name": "Phasers",
+		"name": "The Sniper",
 		"unitType": "Ranged",
 		"uniqueTo": "The Illuminati",
 		"replaces": "Machine Gun",
-		"movement": 2,
-		"strength": 90,
-		"rangedStrength": 36,
-		"range": 2,
+		"movement": 1,
+		"strength": 100,
+		"rangedStrength": 40,
+		"range": 8,
 		"cost": 500,
 		"requiredTech": "Ballistics",
-		"requiredResource": "Uranium",
 		"promotions": ["Logistics","Accuracy I"],
 		"attackSound": "phasers"
 	},
