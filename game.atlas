@@ -18,7 +18,7 @@ BuildingIcons/The System
   orig: 100, 100
   offset: 0, 0
   index: -1
-NationIcons/The Illuminati 
+UnitIcons/The Negotiator  
   rotate: false
   xy: 4, 4
   size: 100, 100
