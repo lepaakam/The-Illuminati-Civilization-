@@ -2,7 +2,7 @@
 	{
 		"name": "Phasers",
 		"unitType": "Ranged",
-		"uniqueTo": "Aliens",
+		"uniqueTo": "The Illuminati",
 		"replaces": "Machine Gun",
 		"movement": 2,
 		"strength": 90,
@@ -13,5 +13,19 @@
 		"requiredResource": "Uranium",
 		"promotions": ["Logistics","Accuracy I"],
 		"attackSound": "phasers"
+	},
+	{
+		"name": "The negotiator",
+		"uniqueTo": "The Illuminati",
+		"replaces": "Great Merchant",
+		"unitType": "Civilian",
+		"uniques": ["Empire enters a [6]-turn Golden Age <by consuming this unit>",
+			"Can undertake a trade mission with City-State, giving a large sum of gold and [250] Influence",
+			"Can instantly construct a [Customs house] improvement <by consuming this unit>",
+			"Great Person - [Gold]",
+			"Is part of Great Person group [Merchant]",
+			"Unbuildable",
+			"Uncapturable"],
+		"movement": 2
 	}
 ]
