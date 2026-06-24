@@ -1,40 +1,37 @@
 [
 	{
-		"name": "Aliens",
-		"leaderName": "Zyxxyz",
-		"adjective": ["alien"],
-		"startBias": ["Snow"],
-		"preferredVictoryType": "Scientific",
+		"name": "The Illuminati",
+		"leaderName":"??????",
+		"adjective": ["Illuminati"],
+		"preferredVictoryType": "Diplomatic",
 		
-		"startIntroPart1": "We come in peace!",
-		"startIntroPart2": "This is an overpowered joke nation just as an example for the mods feature. Set Phasers to Obliterate!!",
+		"startIntroPart1": "Change, control, and conquer the world without anyone noticing!",
+		"startIntroPart2": "And that is your job",
 		
-		"declaringWar": "Resistance is futile! Prepare to be assimilated!",
-		"attacked": "You want to play? Very funny!",
-		"defeated": "How is it possible that those Apes hurt us? The galactic senate will take care of them.",
-		"introduction": "As superior galactic entities, you are not worthy of our attention.",
+		"declaringWar": "Beware my power! Prepare to be crush!",
+		"attacked": "Are you noticing?",
+		"defeated": "A defeat is not the end",
+		"introduction": "Are you friends or enemy? It's your actions that determine it.",
 		
 		"neutralHello": "How are you doing?",
 		//"neutralLetsHearIt": ["Go on.","What do you say?","You may begin."],
 		//"neutralNo": ["We absolutely refuse.","No!","I refuse."],
 		//"neutralYes": ["Very good.","Of course, yes.","That is very good."],
 
-		"hateHello": "What do you want now?",
+		"hateHello": "Get lost",
 		//"hateLetsHearIt": ["Speak!","What do you say?","Go on."],
-		//"hateNo": ["That is not possible!","We are not agreeing to that!","I beg your pardon?"],
-		//"hateYes": ["That is fine.","That is good enough.","Very well..."],
+		//"hateNo": ["Meh"],
+		//"hateYes": ["Very well..."],
 		
-		//"afterPeace": "Very well, all that fighting was getting boring anyway.",
-		"tradeRequest": "We bestow you the honor of this trade offer.",
-		"denounced": "The accusations of primitive lifeforms are beneath us.",
-		"declaringfriendship": "Let us become like friends!",
+		//"afterPeace": "Good Choice.",
+		"tradeRequest": "I need this.",
+		"denounced": "You've crossed the line.",
+		"declaringfriendship": "friends huh? Maybe it won't be bad.",
 
 		"outerColor": [28,51,119],
 		"innerColor": [255,255,255],
-		"unique": "MANIFEST_DESTINY",
-		"cities": ["The Hive","Q'Throczan","Q'Chovex","Q'Imphet","Q'Omphead","Q'Grecoks","Q'Vrelzieks","Q'Vronens","Q'Aerlae",
-			"Q'Phulnoith","Q'Creved","Q'Xirqen","Q'Gax","Q'Threqals","Q'Bhilmuk","Q'Mazea","Q'Zomirs","Q'Drorkrex","Q'Honkrath",
-			"Q'Zulgra","Q'Vahars","Q'Crindith","Q'Raavraes","Q'Bhoknais","Qho'Qru","Q'Dateatz","Q'Elnad","Q'Izien","Qol'Ell",
-			"Q'Dhihien","Q'Naquiel","Q'Ugneon","Q'Straquks","Q'Nulptr","Q'Ohfahl"]
+		"uniqueName": "Nobody Knows",
+		"cities": ["The Hive","District 1","District 2","District 4","District 5","District 6","District 7","District 8","District 9",
+			"District 10","District qq","District 12","District 13","District 14","The Secret Theater","Maze"]
 	}
 ]
