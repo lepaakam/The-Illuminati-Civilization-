@@ -6,7 +6,7 @@
 		"cost": 400,
 		"culture": 8,
 		"science": 14,
-		"uniques":"Gain an extra spy",
+		"uniques": ["Gain an extra spy"],
 		"maintenance": 40,
 		"isNationalWonder": true,
 		"requiredBuildingInAllCities": "Colosseum",
