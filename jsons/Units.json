@@ -14,7 +14,7 @@
 		"attackSound": "phasers"
 	},
 	{
-		"name": "The negotiator",
+		"name": "The Negotiator",
 		"uniqueTo": "The Illuminati",
 		"replaces": "Great Merchant",
 		"unitType": "Civilian",
